@@ -13,7 +13,7 @@ CREATE TABLE Klientter (
     email NVARCHAR(100)
 );
 
--- 2. Бөлмелер
+
 CREATE TABLE Bolmeler (
     bolme_id INT PRIMARY KEY,
     bolme_nomeri INT,
