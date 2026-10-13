@@ -2,10 +2,9 @@
 -- ҚОНАҚҮЙДІ БРОНДАУ АҚПАРАТТЫҚ ЖҮЙЕСІ
 
 -- Деректер қорын құру
-CREATE DATABASE HotelBookingDB;
+CREATE DATABASE HotelBookingProjectDB;
 GO
-
-USE HotelBookingDB;
+USE HotelBookingProjectDB;
 GO
 
 
